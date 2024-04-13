@@ -7,6 +7,7 @@ public class Main {
      * @since 13-04-2024
      *
      * Ejercicio 4: Factorial de un número: num!
+     * Estructura While
      *
      */
     public static void main(String[] args) {
