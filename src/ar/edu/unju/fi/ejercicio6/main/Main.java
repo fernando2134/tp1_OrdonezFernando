@@ -1,11 +1,10 @@
 package ar.edu.unju.fi.ejercicio6.main;
 
 import ar.edu.unju.fi.ejercicio6.model.Persona;
+import ar.edu.unju.fi.ejercicio6.excepion.Exception;
 
 import java.util.Scanner;
 import java.time.LocalDate;
-
-import ar.edu.unju.fi.ejercicio6.excepion.Exception;
 
 public class Main {
     /**
